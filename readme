@@ -1,1 +1,4 @@
 
+1. Required jdk1.8 
+2. Test data are stored in - BookingTestPayload.json
+3. Test cases can be execute - BookingTestCases
